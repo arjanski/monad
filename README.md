@@ -4,7 +4,7 @@
 
 A few reusable Vue.js UI components based on [TailwindCSS](https://tailwindcss.com/), based on [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) principles. Accessible via [StorybookJS](https://storybook.js.org/) / [Nuxt](https://nuxtjs.org)
 
-[StorybookJS Screenshot](screenshot.png)
+![StorybookJS Screenshot](screenshot.png)
 
 ## UI Components
 
