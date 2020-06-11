@@ -1,0 +1,27 @@
+@tailwind base;
+
+@tailwind components;
+
+.tooltip {
+    @apply shadow-lg rounded p-2 bg-gray-800 text-white text-xs z-50 block
+}
+
+.t-table-header {
+    @apply px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider
+}
+.t-table-td {
+    @apply px-5 py-5 border-b border-gray-200 text-sm
+}
+.t-navbar-item {
+    @apply mt-1 block px-2 py-1 text-gray-900 font-normal text-sm font-medium rounded
+}
+.t-navbar-item:hover {
+    @apply bg-blue-500 text-white
+}
+@screen sm {
+    .t-navbar-item {
+        @apply mt-0 ml-2
+    }
+}
+@tailwind utilities;
+
