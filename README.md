@@ -2,7 +2,7 @@
 
 **! Warning ! Monad is experimental and very much WIP**
 
-A few reusable Vue.js UI components based on [TailwindCSS](https://tailwindcss.com/), based on [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) principles. Accessible via [StorybookJS](https://storybook.js.org/) / [Nuxt](https://nuxtjs.org)
+A few reusable Vue.js UI components based on [TailwindCSS](https://tailwindcss.com/), based on [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) principles. Accessible via [StorybookJS](https://storybook.js.org/) / [Nuxt](https://nuxtjs.org). This started as an exercise to get to know StorybookJS.
 
 ![StorybookJS Screenshot](screenshot.png)
 
@@ -27,3 +27,6 @@ Storybook lets you test and develop UI components in isolation. The following [S
 ## Install and Launch
 1. Install dependencies with `npm install` or `yarn install`.
 2. Serve Storybook with hot reload at localhost:2001 with `npm run storybook` or `yarn run storybook`.
+
+## Credits
+Inspired by TailwindCSS docs and [DJanoskova's Tailwind components](https://github.com/DJanoskova/Vue.js-Tailwind-components)
